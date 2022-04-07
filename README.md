@@ -1,5 +1,5 @@
 # Intro-to-HTML-CSS-Java-JS-jQuery
-This GitHub repository is a coursework. It includes:
+This GitHub repository is a collection of courseworks from Skillshare and Khan Academy. They include:
 
 •	Intro to JS: Drawing & Animation
 
